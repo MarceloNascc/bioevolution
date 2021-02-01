@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 html {
   box-sizing: border-box;
   font-size: 16px;
@@ -20,4 +22,23 @@ ol, ul {
 img {
   max-width: 100%;
   height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.content {
+  padding: 0px 80px 0px;
+}
+
+.title {
+  font-family: 'Sriracha', cursive;
+  font-size: 45px;
+}
+
+p {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
 }
