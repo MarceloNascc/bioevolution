@@ -5,9 +5,11 @@ footer#footer{
 
   padding: 0px 10px;
 
-  height: 60px;
+  height: 42px;
   min-width: 100%;
   background-color: #36E332;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 footer#footer>p>span {
