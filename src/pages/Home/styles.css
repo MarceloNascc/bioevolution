@@ -1,68 +1,70 @@
-div#main-content-home {
-  height: 100vh;
+div#home-main {
   display: flex;
-  flex-direction: column;
+  width: 100%;
+}
+
+div#home-left {
+  flex: 1;
+  height: 100vh;
+  background: url(../../assets/svg/home_left.svg) no-repeat right;
+  background-size: cover;
+}
+
+div#main-content-home {
+  flex: 2;
 }
 
 h1#home-title {
-  text-align: center;
+  margin-left: 10px;
 }
 
 main#home {
-  display: flex;
-  align-items: center;
-  flex: 1;
-  border-radius: 15px;
-  background-color: #36E332;
-  border-width: 6px;
-  border-color: #2BA400;
-  border-style: solid;
+  border-top: #36E332 1px solid;
+  border-bottom: #36E332 1px solid;
+  padding-left: 10px;
 }
 
-nav#home-navigation>ul {
+nav>ul#home-navigation {
   display: flex;
-  align-items: center;
-  justify-content: center;
   flex-wrap: wrap;
-}
-
-nav#home-navigation>ul>li {
-  margin: 10px 18px;
-  width: 304px;
-  height: 190px;
-  border-radius: 10px;
-  overflow: hidden;
-  transition: border .2s;
-}
-
-nav#home-navigation>ul>li:hover {
-  border-width: 2px;
-  border-color: #FFFFFF;
-  border-style: solid;
-}
-
-nav#home-navigation>ul>li>a {
-  display: flex;
-  align-items: center;
   justify-content: center;
+}
+
+nav>ul#home-navigation>li {
+  height: 200px;
+  width: 250px;
+  margin: 30px 15px;
+  overflow: hidden;
+  border-radius: 15px;
+  transition: border 1s;
   position: relative;
-  width: 100%;
+  border: #000000 1.5px solid;
+}
+
+nav>ul#home-navigation>li:hover {
+  border-color: #36E332;
+}
+
+nav>ul#home-navigation>li>a{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
   height: 100%;
 }
 
-nav#home-navigation>ul>li>a>img.link-img {
+nav>ul#home-navigation>li>a>img {
   position: absolute;
+  align-self: flex-start;
   transition: transform 1s;
 }
 
-nav#home-navigation>ul>li>a>img.link-img:hover {
+nav>ul#home-navigation>li>a>img:hover{
   transform: scale(1.5);
 }
 
-nav#home-navigation>ul>li>a>p {
+nav>ul#home-navigation>li>a>p {
+  width: 100%;
   text-align: center;
-  font-size: 25px;
-  font-weight: bold;
-  color: #FFFFFF;
+  background-color: #FFFFFF;
   z-index: 100;
 }
