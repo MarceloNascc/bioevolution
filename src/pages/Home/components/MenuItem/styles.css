@@ -1,0 +1,38 @@
+nav>ul#home-navigation>li {
+  height: 200px;
+  width: 250px;
+  margin: 30px 15px;
+  overflow: hidden;
+  border-radius: 15px;
+  transition: border 1s;
+  position: relative;
+  border: #000000 1.5px solid;
+}
+
+nav>ul#home-navigation>li:hover {
+  border-color: #36E332;
+}
+
+nav>ul#home-navigation>li>a {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 100%;
+}
+
+nav>ul#home-navigation>li>a>img {
+  position: absolute;
+  align-self: flex-start;
+  transition: transform 1s;
+}
+
+nav>ul#home-navigation>li>a>img:hover {
+  transform: scale(1.5);
+}
+
+nav>ul#home-navigation>li>a>p {
+  width: 100%;
+  text-align: center;
+  background-color: #FFFFFF;
+  z-index: 100;
+}

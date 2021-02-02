@@ -6,7 +6,7 @@ import speciation from '../../assets/especiacao.png';
 import lamarckismo from '../../assets/lamarckismo.jpg';
 import artificialSelection from '../../assets/selecao_artificial.jpeg';
 
-import { Link } from 'react-router-dom';
+import MenuItem from './components/MenuItem';
 
 import './styles.css';
 
@@ -21,48 +21,36 @@ export default function Home() {
           <main id='home'>
             <nav>
               <ul id='home-navigation'>
-                <li>
-                  <Link>
-                    <img className='link-img' src={naturalSelection} alt="imagem representando a seleção natural" />
-                    <p className='paragraph-img'>Seleção Natural</p>
-                  </Link>
-                </li>
-
-                <li>
-                  <Link>
-                    <img className='link-img' src={artificialSelection} alt="uma imagem" />
-                    <p className='paragraph-img'>Seleção Artificial</p>
-                  </Link>
-                </li>
-
-                <li>
-                  <Link>
-                    <img className='link-img' src={geneticDrift} alt="uma imagem" />
-                    <p className='paragraph-img'>Deriva Genética</p>
-                  </Link>
-                </li>
-
-                <li>
-                  <Link>
-                    <img className='link-img' src={darwinismo} alt="uma imagem" />
-                    <p className='paragraph-img'>Darwinismo</p>
-                  </Link>
-                </li>
-
-                <li>
-                  <Link>
-                    <img className='link-img' src={lamarckismo} alt="uma imagem" />
-                    <p className='paragraph-img'>Lamarckismo</p>
-                  </Link>
-                </li>
-
-                <li>
-                  <Link>
-                    <img className='link-img' src={speciation} alt="uma imagem" />
-                    <p className='paragraph-img'>Especiação</p>
-                  </Link>
-                </li>
-
+                <MenuItem
+                  image={naturalSelection}
+                  text='Seleção Natural'
+                  alt='imagem representando a seleção natural'
+                />
+                <MenuItem
+                  image={artificialSelection}
+                  text='Seleção Artificial'
+                  alt='imagem representando a seleção artificial'
+                />
+                <MenuItem
+                  image={geneticDrift}
+                  text='Deriva Genética'
+                  alt='imagem representando a deriva genética'
+                />
+                <MenuItem
+                  image={darwinismo}
+                  text='Darwinismo'
+                  alt='imagem representando o darwinismo'
+                />
+                <MenuItem
+                  image={lamarckismo}
+                  text='Lamarckismo'
+                  alt='imagem representando o lamarckismo'
+                />
+                <MenuItem
+                  image={speciation}
+                  text='Especiação'
+                  alt='imagem representando a especiação'
+                />
               </ul>
             </nav>
           </main>
