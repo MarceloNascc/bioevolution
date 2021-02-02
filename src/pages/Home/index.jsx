@@ -25,6 +25,7 @@ export default function Home() {
                   image={naturalSelection}
                   text='Seleção Natural'
                   alt='imagem representando a seleção natural'
+                  toUrl='/natural-selection'
                 />
                 <MenuItem
                   image={artificialSelection}
