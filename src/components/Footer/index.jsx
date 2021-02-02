@@ -9,5 +9,5 @@ export default function Footer(){
       <p>Desenvolvido por <span>Marcelo Nascimento</span></p>
       <img src={tree} alt="a small tree"/>
     </footer>
-  )
+  );
 }
