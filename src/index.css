@@ -47,6 +47,7 @@ p {
 p.text {
   text-align: justify;
   text-indent: 18px;
+  width: 100%;
 }
 
 div.intro {
@@ -99,4 +100,13 @@ div.article-left {
 
 article {
   flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+
+.styled-subsubtitle{
+  text-align: center;
+  margin: 16px 0px;
+  font-size: 24px;
+  text-decoration: underline #36E332;
 }

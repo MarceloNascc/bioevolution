@@ -31,26 +31,31 @@ export default function Home() {
                   image={artificialSelection}
                   text='Seleção Artificial'
                   alt='imagem representando a seleção artificial'
+                  toUrl='/artificial-selection'
                 />
                 <MenuItem
                   image={geneticDrift}
                   text='Deriva Genética'
                   alt='imagem representando a deriva genética'
+                  toUrl='/genetic-drift'
                 />
                 <MenuItem
                   image={darwinismo}
                   text='Darwinismo'
                   alt='imagem representando o darwinismo'
+                  toUrl='/darwinismo'
                 />
                 <MenuItem
                   image={lamarckismo}
                   text='Lamarckismo'
                   alt='imagem representando o lamarckismo'
+                  toUrl='/lamarckismo'
                 />
                 <MenuItem
                   image={speciation}
                   text='Especiação'
                   alt='imagem representando a especiação'
+                  toUrl='/speciation'
                 />
               </ul>
             </nav>

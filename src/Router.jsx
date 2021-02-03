@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import Home from './pages/Home';
 import NaturalSelection from './pages/NaturalSelection';
+import Speciation from './pages/Speciation';
 
 import Footer from "./components/Footer";
 import Header from "./components/Header";
@@ -14,6 +15,7 @@ export default function Router() {
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/natural-selection' component={NaturalSelection} />
+        <Route path='/speciation' component={Speciation} />
       </Switch>
       <Footer />
     </BrowserRouter>
