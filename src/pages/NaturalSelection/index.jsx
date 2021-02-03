@@ -1,4 +1,5 @@
-import React, { useEffect } from 'react';
+import React from 'react';
+import useSubtitle from '../../hooks/useSubtitle';
 import naturalSelection1 from '../../assets/natural-selection1.png';
 import naturalSelection2 from '../../assets/natural-selection2.png';
 import naturalSelection3 from '../../assets/natural-selection3.png';
@@ -8,26 +9,7 @@ import QuicklyMenu from "../../components/QuicklyMenu";
 import './styles.css';
 
 export default function NaturalSelection() {
-  useEffect(() => {
-    function handleScroll(e) {
-      const subtitles = document.getElementsByClassName('subtitle');
-
-      Array.prototype.map.call(subtitles, elem => {
-        const { y } = elem.getBoundingClientRect();
-        if (y === 0) {
-          elem.style.backgroundColor = '#36E332';
-          elem.style.color = '#FFFFFF';
-        } else {
-          elem.style.backgroundColor = 'initial';
-          elem.style.color = '#000000';
-        }
-      });
-    }
-
-    document.addEventListener('scroll', handleScroll);
-
-    return () => document.removeEventListener('scroll', handleScroll);
-  }, []);
+  useSubtitle();
 
   return (
     <>
