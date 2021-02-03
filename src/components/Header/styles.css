@@ -9,7 +9,7 @@ header#header {
   margin-bottom: 20px;
 }
 
-header#header>img {
+header#header>a>img {
   height: 60px;
   width: auto;
 }
