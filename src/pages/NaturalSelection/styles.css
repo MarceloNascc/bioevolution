@@ -1,0 +1,11 @@
+ul#natural-selection-types {
+  margin-top: 10px;
+}
+
+ul#natural-selection-types>li {
+  list-style-image: url(../../assets/svg/circle.svg);
+}
+
+ul#natural-selection-types>li>p>span {
+  font-size: 1.1em;
+}

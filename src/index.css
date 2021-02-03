@@ -63,9 +63,40 @@ section.section-intro {
 }
 
 .styled-title {
+  text-align: center;
   font-family: 'Sriracha', cursive;
   border-radius: 12px;
   border: #36E332 1px solid;
   padding: 6px 20px;
   margin-bottom: 16px;
+  transition: all 0.4s;
+}
+
+h2.subtitle {
+  margin-top: 30px;
+  position: sticky;
+  top: 0;
+}
+
+.styled-title:hover {
+  background-color: #36E332;
+  color: #FFFFFF;
+}
+
+div.div-article {
+  display: flex;
+  padding: 0px 80px;
+}
+
+div.article-left {
+  flex: 1;
+  background: url(./assets/svg/book_lover.svg) no-repeat center;
+  background-size: contain;
+  max-height: 100vh;
+  position: sticky;
+  top: 0;
+}
+
+article {
+  flex: 2;
 }
