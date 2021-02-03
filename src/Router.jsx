@@ -7,6 +7,7 @@ import Speciation from './pages/Speciation';
 import ArtificialSelection from './pages/ArtificialSelection';
 import Lamarckismo from './pages/Lamarckismo';
 import Darwinismo from './pages/Darwinismo';
+import GeneticDrift from './pages/GeneticDrift';
 
 import Footer from "./components/Footer";
 import Header from "./components/Header";
@@ -22,6 +23,7 @@ export default function Router() {
         <Route path='/artificial-selection' component={ArtificialSelection} />
         <Route path='/lamarckismo' component={Lamarckismo} />
         <Route path='/darwinismo' component={Darwinismo} />
+        <Route path='/genetic-drift' component={GeneticDrift} />
       </Switch>
       <Footer />
     </BrowserRouter>
