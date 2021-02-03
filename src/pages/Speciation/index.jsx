@@ -8,7 +8,7 @@ import QuicklyMenu from "../../components/QuicklyMenu";
 
 import './styles.css';
 
-export default function NaturalSelection() {
+export default function Speciation() {
   useSubtitle();
 
   return (
