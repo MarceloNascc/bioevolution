@@ -65,6 +65,7 @@ button#give-up:hover {
 
 div.custom-radio-row {
   display: flex;
+  align-items: center;
 }
 
 div.custom-radio-row:not(:first-child) {
