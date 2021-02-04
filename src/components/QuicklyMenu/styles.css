@@ -3,7 +3,7 @@ div#quickly-menu {
   flex: 1;
   flex-direction: column;
   align-items: flex-end;
-  background: url(../../assets/svg/branch.svg) no-repeat left bottom;
+  background: url(../../assets/img/svg/branch.svg) no-repeat left bottom;
   height: 440px;
 }
 

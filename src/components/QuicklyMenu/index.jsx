@@ -1,10 +1,10 @@
 import React from 'react';
-import toucan from '../../assets/svg/toucan.svg';
-import owl from '../../assets/svg/owl.svg';
-import koala from '../../assets/svg/koala.svg';
-import bee from '../../assets/svg/bee.svg';
-import bird from '../../assets/svg/bird.svg';
-import elephant from '../../assets/svg/elephant.svg';
+import toucan from '../../assets/img/svg/toucan.svg';
+import owl from '../../assets/img/svg/owl.svg';
+import koala from '../../assets/img/svg/koala.svg';
+import bee from '../../assets/img/svg/bee.svg';
+import bird from '../../assets/img/svg/bird.svg';
+import elephant from '../../assets/img/svg/elephant.svg';
 
 import { Link } from 'react-router-dom';
 

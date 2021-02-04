@@ -1,7 +1,7 @@
 import React from 'react';
 import useSubtitle from '../../hooks/useSubtitle';
-import artificialSelection1 from '../../assets/artificial-selection1.jpg';
-import artificialSelection2 from '../../assets/artificial-selection2.jpg';
+import artificialSelection1 from '../../assets/img/artificial-selection1.jpg';
+import artificialSelection2 from '../../assets/img/artificial-selection2.jpg';
 
 import QuicklyMenu from "../../components/QuicklyMenu";
 

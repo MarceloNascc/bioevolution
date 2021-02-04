@@ -1,6 +1,6 @@
 import React from 'react';
 import useSubtitle from '../../hooks/useSubtitle';
-import lamarckismo1 from '../../assets/lamarckismo1.jpg';
+import lamarckismo1 from '../../assets/img/lamarckismo1.jpg';
 
 import QuicklyMenu from "../../components/QuicklyMenu";
 

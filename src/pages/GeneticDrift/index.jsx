@@ -1,7 +1,7 @@
 import React from 'react';
 import useSubtitle from '../../hooks/useSubtitle';
-import geneticDrift1 from '../../assets/genetic-drift1.jpg';
-import geneticDrift2 from '../../assets/genetic-drift2.jpg';
+import geneticDrift1 from '../../assets/img/genetic-drift1.jpg';
+import geneticDrift2 from '../../assets/img/genetic-drift2.jpg';
 
 import QuicklyMenu from "../../components/QuicklyMenu";
 

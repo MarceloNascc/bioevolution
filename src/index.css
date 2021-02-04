@@ -91,7 +91,7 @@ div.div-article {
 
 div.article-left {
   flex: 1;
-  background: url(./assets/svg/book_lover.svg) no-repeat center;
+  background: url(./assets/img/svg/book_lover.svg) no-repeat center;
   background-size: contain;
   max-height: 100vh;
   position: sticky;

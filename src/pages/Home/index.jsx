@@ -1,10 +1,10 @@
 import React from 'react';
-import naturalSelection from '../../assets/selecao_natural.jpg';
-import darwinismo from '../../assets/darwinismo.jpg';
-import geneticDrift from '../../assets/deriva_genetica.png';
-import speciation from '../../assets/especiacao.png';
-import lamarckismo from '../../assets/lamarckismo.jpg';
-import artificialSelection from '../../assets/selecao_artificial.jpeg';
+import naturalSelection from '../../assets/img/selecao_natural.jpg';
+import darwinismo from '../../assets/img/darwinismo.jpg';
+import geneticDrift from '../../assets/img/deriva_genetica.png';
+import speciation from '../../assets/img/especiacao.png';
+import lamarckismo from '../../assets/img/lamarckismo.jpg';
+import artificialSelection from '../../assets/img/selecao_artificial.jpeg';
 
 import MenuItem from './components/MenuItem';
 
@@ -64,7 +64,7 @@ export default function Home() {
       </div>
 
       <section className='content'>
-        <h2 className='subtitle'>Exércicios</h2>
+        <h2 className='styled-subsubtitle'>Teste o seu conhecimento</h2>
 
         <nav id='exercise-navigation'>
           <ul>

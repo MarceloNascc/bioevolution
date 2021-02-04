@@ -1,7 +1,7 @@
 import React from 'react';
 import useSubtitle from '../../hooks/useSubtitle';
-import darwinismo1 from '../../assets/darwinismo1.jpg';
-import darwinismo2 from '../../assets/darwinismo2.jpg';
+import darwinismo1 from '../../assets/img/darwinismo1.jpg';
+import darwinismo2 from '../../assets/img/darwinismo2.jpg';
 
 import QuicklyMenu from "../../components/QuicklyMenu";
 

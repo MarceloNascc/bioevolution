@@ -1,6 +1,6 @@
 import React from 'react';
 
-import tree from '../../assets/tree.png';
+import tree from '../../assets/img/tree.png';
 import './styles.css';
 
 export default function Footer(){

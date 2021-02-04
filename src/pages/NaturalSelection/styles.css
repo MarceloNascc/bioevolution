@@ -3,7 +3,7 @@ ul#natural-selection-types {
 }
 
 ul#natural-selection-types>li {
-  list-style-image: url(../../assets/svg/circle.svg);
+  list-style-image: url(../../assets/img/svg/circle.svg);
 }
 
 ul#natural-selection-types>li>p>span {

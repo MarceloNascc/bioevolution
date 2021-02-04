@@ -6,7 +6,7 @@ div#home-main {
 div#home-left {
   flex: 1;
   height: 100vh;
-  background: url(../../assets/svg/home_left.svg) no-repeat right;
+  background: url(../../assets/img/svg/home_left.svg) no-repeat right;
   background-size: cover;
 }
 

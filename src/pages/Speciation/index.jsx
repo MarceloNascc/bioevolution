@@ -1,8 +1,8 @@
 import React from 'react';
 import useSubtitle from '../../hooks/useSubtitle';
-import speciation1 from '../../assets/speciation1.png';
-import speciation2 from '../../assets/speciation2.png';
-import speciation3 from '../../assets/speciation3.png';
+import speciation1 from '../../assets/img/speciation1.png';
+import speciation2 from '../../assets/img/speciation2.png';
+import speciation3 from '../../assets/img/speciation3.png';
 
 import QuicklyMenu from "../../components/QuicklyMenu";
 

@@ -1,8 +1,8 @@
 import React from 'react';
 import useSubtitle from '../../hooks/useSubtitle';
-import naturalSelection1 from '../../assets/natural-selection1.png';
-import naturalSelection2 from '../../assets/natural-selection2.png';
-import naturalSelection3 from '../../assets/natural-selection3.png';
+import naturalSelection1 from '../../assets/img/natural-selection1.png';
+import naturalSelection2 from '../../assets/img/natural-selection2.png';
+import naturalSelection3 from '../../assets/img/natural-selection3.png';
 
 import QuicklyMenu from "../../components/QuicklyMenu";
 
