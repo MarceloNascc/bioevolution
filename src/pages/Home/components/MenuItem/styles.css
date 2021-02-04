@@ -26,7 +26,7 @@ nav>ul#home-navigation>li>a>img {
   transition: transform 1s;
 }
 
-nav>ul#home-navigation>li>a>img:hover {
+nav>ul#home-navigation>li:hover a>img {
   transform: scale(1.5);
 }
 

@@ -38,7 +38,7 @@ nav>ul#quickly-menu-items>li>a>p{
   transition: all 0.5s;
 }
 
-nav>ul#quickly-menu-items>li>a>p:hover{
+nav>ul#quickly-menu-items>li:hover a>p{
   border: #36E332 1px solid;
   background-color: #FFFFFF;
   color: #36E332;
