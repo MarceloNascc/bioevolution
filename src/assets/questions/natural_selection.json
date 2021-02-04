@@ -1,0 +1,106 @@
+[
+  {
+    "text": "<p>(UFU-MG) O uso de um mesmo antibiótico para tratar repetidas infecções causadas por mesmos tipos de bactérias tem como consequência a ineficácia do tratamento. Tal resultado é devido ao fato de:</p>",
+    "alternatives": [
+      {
+        "id": "natural-selection-1a",
+        "text": "O antibiótico induzir modificações no metabolismo das bactérias."
+      },
+      {
+        "id": "natural-selection-1b",
+        "text": "As bactérias se adaptarem individualmente ao antibiótico."
+      },
+      {
+        "id": "natural-selection-1c",
+        "text": "O antibiótico selecionar, na população bacteriana, as bactérias que já eram resistentes a ele."
+      },
+      {
+        "id": "natural-selection-1d",
+        "text": "O antibiótico induzir diretamente nas bactérias uma resistência."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "natural-selection-1c",
+      "text": "Alternativa “c”"
+    }
+  },
+  {
+    "text": "<p>Dos diferentes tipos de seleção natural. Qual desses tipos seleciona os indivíduos com fenótipos próximos à média:</p>",
+    "alternatives": [
+      {
+        "id": "natural-selection-2a",
+        "text": "Seleção direcional."
+      },
+      {
+        "id": "natural-selection-2b",
+        "text": "Seleção estabilizadora."
+      },
+      {
+        "id": "natural-selection-2c",
+        "text": "Seleção disruptiva."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "natural-selection-1b",
+      "text": "Alternativa “b”"
+    }
+  },
+  {
+    "text": "<p>Analise as alternativas a seguir e selecione aquela que possui o nome correto do autor da seleção natural.</p>",
+    "alternatives": [
+      {
+        "id": "natural-selection-3a",
+        "text": "Mendel."
+      },
+      {
+        "id": "natural-selection-3b",
+        "text": "Pasteur."
+      },
+      {
+        "id": "natural-selection-3c",
+        "text": "Haldane."
+      },
+      {
+        "id": "natural-selection-3d",
+        "text": "Darwin."
+      },
+      {
+        "id": "natural-selection-3e",
+        "text": "Lamarck."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "natural-selection-1d",
+      "text": "Alternativa “d”"
+    }
+  },
+  {
+    "text": "<p>(UFPR) Certos insetos apresentam um aspecto que os assemelha bastante, na cor e às vezes até na forma, com ramos e folhas de algumas plantas. Esse fato é de extremo valor para o inseto, já que o protege contra o ataque de seus predadores. Esse fenômeno, analisado à luz da Teoria da Evolução, pode ser explicado:</p>",
+    "alternatives": [
+      {
+        "id": "natural-selection-4a",
+        "text": "Pela lei do uso e desuso, enunciada por Lamarck."
+      },
+      {
+        "id": "natural-selection-4b",
+        "text": "Pela deriva genética, comum em certas populações."
+      },
+      {
+        "id": "natural-selection-4c",
+        "text": "Pelo isolamento geográfico, que acontece com certas espécies de insetos."
+      },
+      {
+        "id": "natural-selection-4d",
+        "text": "Pela seleção natural, que favorece características adaptativas adequadas para cada ambiente específico."
+      },
+      {
+        "id": "natural-selection-4e",
+        "text": "Por uma mutação de amplo espectro, que ocorre em uma determinada espécie."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "natural-selection-1d",
+      "text": "Alternativa “d”"
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "text": "<p>Dentre os fatores evolutivos, a deriva genética é um dos mais interessantes por suas características.</p><p>Analise as proposições sobre este fator evolutivo.</p><p>I. A deriva genética aumenta as frequências de mutações em uma população.</p><p>II. Para ocorrer a deriva genética é necessário o mesmo número de machos e fêmeas em uma população.</p><p>III. A deriva genética ocorre em populações pequenas.</p><p>IV. A deriva genética aumenta a variabilidade gênica de uma população.</p><p>Assinale a alternativa correta.</p>",
+    "alternatives": [
+      {
+        "id": "genetic-drift-1a",
+        "text": "Somente a afirmativa III é verdadeira."
+      },
+      {
+        "id": "genetic-drift-1b",
+        "text": "Somente a afirmativa IV é verdadeira."
+      },
+      {
+        "id": "genetic-drift-1c",
+        "text": "Somente as afirmativas I e IV são verdadeiras."
+      },
+      {
+        "id": "genetic-drift-1d",
+        "text": "Somente as afirmativas II e III são verdadeiras."
+      },
+      {
+        "id": "genetic-drift-1e",
+        "text": "Somente as afirmativas III e IV são verdadeiras."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "genetic-drift-1a",
+      "text": "Letra “a”. A deriva genética vai ocorrer principalmente em pequenas populações devido a sua baixa variabilidade genética."
+    }
+  },
+  {
+    "text": "<p>A deriva genética atua, principalmente, em populações pequenas e pode ocorrer de duas formas. Uma delas acontece quando o tamanho da população é reduzido de maneira drástica de uma geração para outra. Essa forma é conhecida como:</p>",
+    "alternatives": [
+      {
+        "id": "genetic-drift-2a",
+        "text": "Seleção natural."
+      },
+      {
+        "id": "genetic-drift-2b",
+        "text": "Mutação."
+      },
+      {
+        "id": "genetic-drift-2c",
+        "text": "Efeito gargalo."
+      },
+      {
+        "id": "genetic-drift-2d",
+        "text": "Efeito fundador."
+      },
+      {
+        "id": "genetic-drift-2e",
+        "text": "Simpatria"
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "genetic-drift-1c",
+      "text": "Letra “c”. Mudanças repentinas no ambiente ou desastres naturais acabam reduzindo a população, chamamos de efeito gargalo."
+    }
+  },
+  {
+    "text": "<p>A deriva genética pode acontecer quando uma nova população é estabelecida a partir de poucos indivíduos. Esse caso é conhecido como:</p>",
+    "alternatives": [
+      {
+        "id": "genetic-drift-3a",
+        "text": "Seleção natural."
+      },
+      {
+        "id": "genetic-drift-3b",
+        "text": "Mutação."
+      },
+      {
+        "id": "genetic-drift-3c",
+        "text": "Efeito gargalo."
+      },
+      {
+        "id": "genetic-drift-3d",
+        "text": "Efeito fundador."
+      },
+      {
+        "id": "genetic-drift-3e",
+        "text": "Simpatria."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "genetic-drift-1d",
+      "text": "Letra “d”. Quando um grupo pequeno de indivíduos de uma população acabam migrando para outra área, essa nova população terá uma variabilidade genética reduzida."
+    }
+  },
+  {
+    "text": "<p>Deriva genética é um dos mecanismos da evolução. Analise as alternativas abaixo e marque aquela que melhor define esse mecanismo.</p>",
+    "alternatives": [
+      {
+        "id": "genetic-drift-4a",
+        "text": "Mudanças no DNA que ocorrem para garantir a adaptação."
+      },
+      {
+        "id": "genetic-drift-4b",
+        "text": "Alterações na frequência de migração dos indivíduos de uma população."
+      },
+      {
+        "id": "genetic-drift-4c",
+        "text": "Seleção do organismo mais apto a viver em uma área."
+      },
+      {
+        "id": "genetic-drift-4d",
+        "text": "Alterações na frequência alélica, que ocorre de maneira totalmente aleatória."
+      },
+      {
+        "id": "genetic-drift-4e",
+        "text": "Alterações nos fenótipos de indivíduos de uma população."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "genetic-drift-1d",
+      "text": "Letra “d”."
+    }
+  },
+  {
+    "text": "<p>Devido à caça, a população de elefantes-marinhos do Norte foi reduzida a 20 indivíduos no final do século XIX. Desde então, sua população já se recuperou para mais de 30.000.</p><p>Qual é o efeito mais provável a longo prazo da caça na população de elefantes-marinhos?</p>",
+    "alternatives": [
+      {
+        "id": "genetic-drift-5a",
+        "text": "A população contém alta diversidade alélica."
+      },
+      {
+        "id": "genetic-drift-5b",
+        "text": "A população tem frequências alélicas semelhantes as da população original."
+      },
+      {
+        "id": "genetic-drift-5c",
+        "text": "Os indivíduos são geneticamente semelhantes uns aos outros."
+      },
+      {
+        "id": "genetic-drift-5d",
+        "text": "A população tem mais chances de sobreviver a doenças."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "genetic-drift-1c",
+      "text": "Letra “c”. Acontecerá a diminuição do fluxo gênico."
+    }
+  }
+]

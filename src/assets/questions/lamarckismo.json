@@ -1,0 +1,118 @@
+[
+  {
+    "text": "<p>(Fuvest-2000) Uma ideia comum às teorias da evolução propostas por Darwin e por Lamarck é que a adaptação resulta:</p>",
+    "alternatives": [
+      {
+        "id": "lamarckismo-1a",
+        "text": "do sucesso reprodutivo diferencial."
+      },
+      {
+        "id": "lamarckismo-1b",
+        "text": "de uso e desuso de estruturas anatômicas."
+      },
+      {
+        "id": "lamarckismo-1c",
+        "text": "da interação entre os organismos e seus ambientes."
+      },
+      {
+        "id": "lamarckismo-1d",
+        "text": "da manutenção das melhores combinações gênicas."
+      },
+      {
+        "id": "lamarckismo-1e",
+        "text": "de mutações gênicas induzidas pelo ambiente."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "lamarckismo-1c",
+      "text": "Alternativa “c”. Darwin propôs que os indivíduos mais adaptados ao meio em que vive teria maior chance de sobrevivência e iria gerar descendentes; Lamark acreditava que as características adquiridas no meio ambiente pelos indivíduos seria passadas para seus descendentes."
+    }
+  },
+  {
+    "text": "<p>(Uneb-1998) Considere as seguintes afirmações:</p><p>I. Devido à necessidade de respirar ar atmosférico, certo animal passou a apresentar pulmão e transmitiu essa característica aos descendentes.</p><p>II. As toupeiras atuais têm olhos atrofiados porque seus ancestrais, por viverem sob a terra, não necessitavam da visão.</p><p>III. De tanto comer capim, o intestino dos herbívoros foi ficando cada vez mais longo.</p><p>O pensamento de Lamarck pode ser percebido em:</p>",
+    "alternatives": [
+      {
+        "id": "lamarckismo-2a",
+        "text": "I, apenas."
+      },
+      {
+        "id": "lamarckismo-2b",
+        "text": "III, apenas."
+      },
+      {
+        "id": "lamarckismo-2c",
+        "text": "I e II, apenas."
+      },
+      {
+        "id": "lamarckismo-2d",
+        "text": "II e III, apenas."
+      },
+      {
+        "id": "lamarckismo-2e",
+        "text": "I, II e III."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "lamarckismo-1e",
+      "text": "Alternativa “e”. Explica a teoria do uso e desuso. O indivíduo se esforça para ter tais características."
+    }
+  },
+  {
+    "text": "<p>(Enem-2010) Alguns anfíbios e répteis são adaptados à vida subterrânea. Nessa situação, apresentam algumas características corporais como, por exemplo, ausência de patas, corpo anelado que facilita o deslocamento no subsolo e, em alguns casos, ausências de olhos.</p><p>Suponha que um biólogo tentasse explicar a origem das adaptações mencionadas no texto utilizando conceitos da teoria evolutiva de Lamarck. Ao adotar esse ponto de vista, ele diria que:</p>",
+    "alternatives": [
+      {
+        "id": "lamarckismo-3a",
+        "text": "As características citadas no texto foram originadas pela seleção natural."
+      },
+      {
+        "id": "lamarckismo-3b",
+        "text": "A ausência de olhos teria sido causada pela falta de uso dos mesmos, segundo a lei do uso e desuso."
+      },
+      {
+        "id": "lamarckismo-3c",
+        "text": "O corpo anelado é uma característica fortemente adaptativa, mas seria transmitida apenas à primeira geração de descendentes."
+      },
+      {
+        "id": "lamarckismo-3d",
+        "text": "As patas teriam sido perdidas pela falta de uso e, em seguida, essa característica foi incorporada ao patrimônio genético e então transmitida aos descendentes."
+      },
+      {
+        "id": "lamarckismo-3e",
+        "text": "As características citadas no texto foram adquiridas por meio de mutações e depois, ao longo do tempo, foram selecionadas por serem mais adaptadas ao ambiente em que os organismos se encontram."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "lamarckismo-1b",
+      "text": "Alternativa “b”."
+    }
+  },
+  {
+    "text": "<p>(UFSCar) “O meio ambiente cria a necessidade de uma determinada estrutura em um organismo. Este se esforça para responder a essa necessidade. Como resposta a esse esforço, há uma modificação na estrutura do organismo. Tal modificação é transmitida aos descendentes.”</p><p>O texto sintetiza as principais ideias relacionadas ao:</p>",
+    "alternatives": [
+      {
+        "id": "lamarckismo-4a",
+        "text": "Fixismo."
+      },
+      {
+        "id": "lamarckismo-4b",
+        "text": "Darwinismo."
+      },
+      {
+        "id": "lamarckismo-4c",
+        "text": "Mendelismo."
+      },
+      {
+        "id": "lamarckismo-4d",
+        "text": "Criacionismo."
+      },
+      {
+        "id": "lamarckismo-4e",
+        "text": "Lamarckismo."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "lamarckismo-1e",
+      "text": "Alternativa “e”."
+    }
+  }
+]

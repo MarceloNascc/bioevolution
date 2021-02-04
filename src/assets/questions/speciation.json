@@ -1,0 +1,143 @@
+[
+  {
+    "text": "<p>Que nome recebe a especiação que acontece devido ao isolamento geográfico?</p>",
+    "alternatives": [
+      {
+        "id": "speciation-1a",
+        "text": "Especiação especial."
+      },
+      {
+        "id": "speciation-1b",
+        "text": "Especiação alopátrica."
+      },
+      {
+        "id": "speciation-1c",
+        "text": "Especiação simpátrica."
+      },
+      {
+        "id": "speciation-1d",
+        "text": "Especiação paralela."
+      },
+      {
+        "id": "speciation-1e",
+        "text": "Especiação parapátrica."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "speciation-1b",
+      "text": "Alternativa “b”. A especiação alopátrica ocorre quando uma população é separada por uma barreira geográfica."
+    }
+  },
+  {
+    "text": "<p>Os tentilhões das ilhas Galápagos são perfeitamente adaptados aos diferentes tipos de alimentação encontrados em cada ilha. É possível perceber, por exemplo, bicos diferentes entre as espécies que vivem em ilhas distintas.</p> <p>Esse exemplo evidencia um tipo de especiação:</p>",
+    "alternatives": [
+      {
+        "id": "speciation-2a",
+        "text": "Alopátrica."
+      },
+      {
+        "id": "speciation-2b",
+        "text": "Simpátrica."
+      },
+      {
+        "id": "speciation-2c",
+        "text": "Parapátrica."
+      },
+      {
+        "id": "speciation-2d",
+        "text": "Mesopátrica."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "speciation-2a",
+      "text": "Alternativa “a”. Como os tentilhões ficaram isolados nas diferentes ilhas, surgiram adaptações que contribuíram para a sobrevivência naquela área. As diferenças acumularam-se com o tempo até que houve o surgimento de diferentes espécies."
+    }
+  },
+  {
+    "text": "<p>(UFPA) Na borda norte e na borda sul do Grand Canyon habitam duas populações de esquilos com diferenças morfológicas marcantes que, em condições naturais, sem as barreiras geográficas, não são capazes de se intercruzarem. As duas populações constituem ____________ diferentes, devido principalmente a (ao) ____________.</p>",
+    "alternatives": [
+      {
+        "id": "speciation-3a",
+        "text": "raças – isolamento reprodutivo."
+      },
+      {
+        "id": "speciation-3b",
+        "text": "espécies – isolamento reprodutivo."
+      },
+      {
+        "id": "speciation-3c",
+        "text": "raças – isolamento geográfico."
+      },
+      {
+        "id": "speciation-3d",
+        "text": "espécies – isolamento geográfico."
+      },
+      {
+        "id": "speciation-3e",
+        "text": "raças – diferenças morfológicas."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "speciation-3b",
+      "text": "Alternativa “b”. Como os indivíduos apresentam características morfológicas muito distintas e são incapazes de intercruzar-se, podemos concluir que se trata de espécies diferentes. Quando dois indivíduos são incapazes de cruzar mesmo em áreas comuns, significa que entre eles existe isolamento reprodutivo."
+    }
+  },
+  {
+    "text": "<p>(Cefet-MG) Em algumas regiões brasileiras, existem exemplares de Euphorbia heterophylla, uma planta daninha bastante prejudicial à lavoura de soja e que pode ser resistente a herbicidas. Se, após alguns anos, não existir mais o fluxo de genes entre as plantas susceptíveis e resistentes a herbicidas dessa espécie, então ocorrerá</p>",
+    "alternatives": [
+      {
+        "id": "speciation-4a",
+        "text": "Seleção natural."
+      },
+      {
+        "id": "speciation-4b",
+        "text": "Irradiação adaptativa."
+      },
+      {
+        "id": "speciation-4c",
+        "text": "Isolamento geográfico."
+      },
+      {
+        "id": "speciation-4d",
+        "text": "Recombinação gênica."
+      },
+      {
+        "id": "speciation-4e",
+        "text": "Isolamento reprodutivo."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "speciation-4e",
+      "text": "Alternativa “e”. Quando não há fluxo gênico entre duas populações, diz-se que elas estão isoladas reprodutivamente, o que significa dizer que são espécies diferentes."
+    }
+  },
+  {
+    "text": "<p>(UFLA) São condições necessárias ao aparecimento de novas espécies:</p>",
+    "alternatives": [
+      {
+        "id": "speciation-5a",
+        "text": "A existência de diferenças genéticas dentro das populações, o isolamento geográfico e o reprodutivo."
+      },
+      {
+        "id": "speciation-5b",
+        "text": "A não-ocorrência de mutação e seleção natural."
+      },
+      {
+        "id": "speciation-5c",
+        "text": "A existência de recombinação genética e a ação da seleção natural."
+      },
+      {
+        "id": "speciation-5d",
+        "text": "A não-existência de diferenças genéticas dentro das populações e o isolamento reprodutivo."
+      },
+      {
+        "id": "speciation-5e",
+        "text": "A não-ocorrência do isolamento reprodutivo e mutação."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "speciation-5a",
+      "text": "Alternativa “a”. O surgimento de novas espécies depende do isolamento geográfico, das diferenças genéticas existentes entre as populações (direcionadas pela seleção natural) e do isolamento reprodutivo."
+    }
+  }
+]

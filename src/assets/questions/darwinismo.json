@@ -1,0 +1,110 @@
+[
+  {
+    "text": "<p>(Fuvest) Uma ideia comum às teorias da evolução propostas por Darwin e por Lamarck é que a adaptação resulta</p>",
+    "alternatives": [
+      {
+        "id": "darwinismo-1a",
+        "text": "do sucesso reprodutivo diferencial."
+      },
+      {
+        "id": "darwinismo-1b",
+        "text": "de uso e desuso de estruturas anatômicas."
+      },
+      {
+        "id": "darwinismo-1c",
+        "text": "da interação entre os organismos e seus ambientes."
+      },
+      {
+        "id": "darwinismo-1d",
+        "text": "da manutenção das melhores combinações gênicas."
+      },
+      {
+        "id": "darwinismo-1e",
+        "text": "de mutações gênicas induzidas pelo ambiente."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "darwinismo-1c",
+      "text": "Alternativa “c”. Darwin propôs que os indivíduos mais adaptados ao meio em que vive teria maior chance de sobrevivência e iria gerar descendentes; Lamark acreditava que as características adquiridas no meio ambiente pelos indivíduos seria passadas para seus descendentes."
+    }
+  },
+  {
+    "text": "<p>Um fenômeno bastante conhecido e usado como exemplo para ilustrar as ideias de Darwin é o melanismo industrial. Ele se caracteriza pelo aumento da variedade de mariposas escuras da espécie Biston betularia em algumas regiões da Inglaterra. Marque a alternativa que explica corretamente por que esse aumento ocorreu.</p>",
+    "alternatives": [
+      {
+        "id": "darwinismo-2a",
+        "text": "O aumento das mariposas escuras ocorreu porque as brancas eram mais suscetíveis à poluição e isso as levou à extinção. As escuras, por sua vez, não sofriam com os efeitos tóxicos da poluição e sobreviveram."
+      },
+      {
+        "id": "darwinismo-2b",
+        "text": "As mariposas claras diminuíram, pois elas foram tornando-se escuras pela ação da poluição e passaram essa característica aos seus descendentes."
+      },
+      {
+        "id": "darwinismo-2c",
+        "text": "As mariposas claras diminuíram em razão da predação. Elas tornaram-se mais visíveis em áreas poluídas, onde a fuligem escurecia troncos e muros. Com isso, as escuras tiveram mais chances de sobrevivência e, consequentemente, de reproduzir-se."
+      },
+      {
+        "id": "darwinismo-2d",
+        "text": "O número maior de mariposas escuras é explicado pelo fato de que a poluição escureceu a asa desses animais."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "darwinismo-1c",
+      "text": "Alternativa “c”."
+    }
+  },
+  {
+    "text": "<p>É comum ouvirmos pessoas falando erroneamente que Darwin afirmou que o homem veio do macaco. Diferentemente do que muitos dizem, Darwin apenas explicou que em algum momento no passado todos nós compartilhamos um ancestral. Baseando-se nessa afirmação e nos seus conhecimentos sobre o darwinismo, marque a alternativa que indica corretamente duas ideias centrais da teoria evolucionista proposta por Darwin.</p>",
+    "alternatives": [
+      {
+        "id": "darwinismo-3a",
+        "text": "Lei do uso e desuso e lei da herança dos caracteres adquiridos."
+      },
+      {
+        "id": "darwinismo-3b",
+        "text": "Seleção natural e fluxo gênico."
+      },
+      {
+        "id": "darwinismo-3c",
+        "text": "Ancestralidade comum e seleção natural."
+      },
+      {
+        "id": "darwinismo-3d",
+        "text": "Seleção natural e lei da herança dos caracteres adquiridos."
+      },
+      {
+        "id": "darwinismo-3e",
+        "text": "Ancestralidade comum e lei do uso e desuso."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "darwinismo-1c",
+      "text": "Alternativa “c”. Os dois pontos centrais do darwinismo são o compartilhamento de um ancestral comum e a seleção do mais apto."
+    }
+  },
+  {
+    "text": "<p>Um dos pontos principais do darwinismo diz respeito à seleção natural. Segundo o conceito da seleção natural, é incorreto afirmar que</p>",
+    "alternatives": [
+      {
+        "id": "darwinismo-4a",
+        "text": "Organismos mais aptos possuem maior probabilidade de chegar à fase adulta e reproduzir-se."
+      },
+      {
+        "id": "darwinismo-4b",
+        "text": "O meio ambiente exerce uma força seletiva sobre as espécies."
+      },
+      {
+        "id": "darwinismo-4c",
+        "text": "No processo de seleção natural, organismos que possuem características desvantajosas com o tempo diminuem em número."
+      },
+      {
+        "id": "darwinismo-4d",
+        "text": "Na seleção natural percebemos que o organismo mais forte sempre é o selecionado."
+      }
+    ],
+    "correctResponse": {
+      "alternativeId": "darwinismo-1d",
+      "text": "Alternativa “d”. Nem sempre são indivíduos mais forte, mas sim aqueles mais adaptados ao meio em que vive."
+    }
+  }
+]
