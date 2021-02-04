@@ -29,3 +29,42 @@ nav>ul#home-navigation {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+ul#exercise {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+ul#exercise>li.exercise-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 40%;
+  margin-bottom: 10px;
+}
+
+ul#exercise>li.exercise-item>p>span {
+  text-decoration: underline;
+  text-decoration-color: #E11D1D;
+}
+
+ul#exercise>li.exercise-item>button {
+  height: 30px;
+  padding: 0px 14px 0px;
+  background-color: #36E332;
+  color: #FFFFFF;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.5s, color 0.1s, background 0.1s;
+}
+
+ul#exercise>li.exercise-item>button:active{
+  background-color: #FFFFFF;
+  color: #36E332;
+  border: #36E332 1px solid;
+  transform: scale(1.1);
+}

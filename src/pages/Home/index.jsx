@@ -1,16 +1,25 @@
-import React from 'react';
+import React, { useState } from 'react';
+
 import naturalSelection from '../../assets/img/selecao_natural.jpg';
 import darwinismo from '../../assets/img/darwinismo.jpg';
 import geneticDrift from '../../assets/img/deriva_genetica.png';
 import speciation from '../../assets/img/especiacao.png';
 import lamarckismo from '../../assets/img/lamarckismo.jpg';
 import artificialSelection from '../../assets/img/selecao_artificial.jpeg';
+import darwinismoQuestions from '../../assets/questions/darwinismo.json';
+import naturalSelectionQuestions from '../../assets/questions/natural_selection.json';
+import geneticDriftQuestions from '../../assets/questions/genetic_drift.json';
+import lamarckismoQuestios from '../../assets/questions/lamarckismo.json';
+import speciationQuestions from '../../assets/questions/speciation.json';
 
 import MenuItem from './components/MenuItem';
+import Questions from './components/Questions';
 
 import './styles.css';
 
 export default function Home() {
+  const [currentSelected, setCurrentSelected] = useState(0);
+
   return (
     <>
       <div id='home-main'>
@@ -66,11 +75,61 @@ export default function Home() {
       <section className='content'>
         <h2 className='styled-subsubtitle'>Teste o seu conhecimento</h2>
 
-        <nav id='exercise-navigation'>
-          <ul>
-            <li></li>
-          </ul>
-        </nav>
+        <ul
+          style={{ display: currentSelected !== 0 ? 'none' : 'flex' }}
+          id='exercise'
+        >
+          <li className='exercise-item'>
+            <p>Exercício sobre <span>Seleção natural</span></p>
+            <button onClick={() => setCurrentSelected(1)}>Iniciar</button>
+          </li>
+          <li className='exercise-item'>
+            <p>Exercício sobre <span>Lamarckismo</span></p>
+            <button onClick={() => setCurrentSelected(2)}>Iniciar</button>
+          </li>
+          <li className='exercise-item'>
+            <p>Exercício sobre <span>Deriva genética</span></p>
+            <button onClick={() => setCurrentSelected(3)}>Iniciar</button>
+          </li>
+          <li className='exercise-item'>
+            <p>Exercício sobre <span>Darwinismo</span></p>
+            <button onClick={() => setCurrentSelected(4)}>Iniciar</button>
+          </li>
+          <li className='exercise-item'>
+            <p>Exercício sobre <span>Especiação</span></p>
+            <button onClick={() => setCurrentSelected(5)}>Iniciar</button>
+          </li>
+        </ul>
+
+        <Questions
+          about={naturalSelectionQuestions}
+          isSelected={currentSelected === 1}
+          unselect={() => setCurrentSelected(0)}
+        />
+
+        <Questions
+          about={lamarckismoQuestios}
+          isSelected={currentSelected === 2}
+          unselect={() => setCurrentSelected(0)}
+        />
+
+        <Questions
+          about={geneticDriftQuestions}
+          isSelected={currentSelected === 3}
+          unselect={() => setCurrentSelected(0)}
+        />
+
+        <Questions
+          about={darwinismoQuestions}
+          isSelected={currentSelected === 4}
+          unselect={() => setCurrentSelected(0)}
+        />
+
+        <Questions
+          about={speciationQuestions}
+          isSelected={currentSelected === 5}
+          unselect={() => setCurrentSelected(0)}
+        />
       </section>
     </>
   );
