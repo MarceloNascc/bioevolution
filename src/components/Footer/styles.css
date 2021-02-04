@@ -12,7 +12,11 @@ footer#footer{
   border-top-right-radius: 20px;
 }
 
-footer#footer>p>span {
+footer#footer>p {
+  font-size: 14px;
+}
+
+footer#footer>p>a {
   font-weight: bold;
   color: #FFFFFF;
 }
