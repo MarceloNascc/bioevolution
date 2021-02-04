@@ -30,7 +30,7 @@ export default function NaturalSelection() {
           </p>
           <p className='text'>
             Esses com características favoráveis vão ser considerados mais adaptados que os
-            outros para aquele ambiente selecionador, e assim, o organismo mais adaptado vão
+            outros para aquele ambiente selecionador, e assim, os organismos mais adaptados vão
             sobreviver e produzirem descendentes que vão ter essas características que
             permitiram eles serem selecionados, afinal você provavelmente tem características
             que seus pais tenham, não é? Seja o cabelo parecido ou outras coisas, com isso
@@ -52,7 +52,7 @@ export default function NaturalSelection() {
           <h2 className="styled-title subtitle">Exemplos de seleção natural</h2>
           <p className='text'>
             Para entendermos como funciona essa seleção, imaginemos a seguinte situação:
-            em uma arvore vivem dois tipos de insetos em suas folhas, insetos verdes que são
+            em uma árvore vivem dois tipos de insetos em suas folhas, insetos verdes que são
             da mesma cor das suas folhas e insetos vermelhos que chamam atenção de predadores
             por sua cor, sendo assim, os insetos vermelhos sofrerão mais com a predação por
             não conseguirem se camuflar igual aos verdes.
@@ -60,7 +60,7 @@ export default function NaturalSelection() {
           <p className='text'>
             Como os verdes são menos capturados eles têm mais chance de sobreviver e se
             reproduzirem passando essa característica da cor para as gerações futuras, então
-            com isso irá aumentar os insetos da cor verde e por ter menos chance de sobreviver
+            com isso irá aumentar os insetos da cor verde e por ter menos chances de sobreviver
             e reproduzir irá diminuir os vermelhos.
           </p>
           <p className='text'>
@@ -93,9 +93,9 @@ export default function NaturalSelection() {
               <p>
                 <span>Seleção disruptiva:</span> acontece o favorecimento de duas características
                 extremas. Um exemplo são pássaros que tenham três tipos de bicos (pequenos,
-                intermediário e grandes), pequenos bicos irão se alimentar de sementes macias
+                intermediários e grandes), pequenos bicos irão se alimentar de sementes macias
                 e os grandes irão se alimentar de sementes mais duras, os bicos intermediários
-                não será selecionado por que somente foram favorecidos os outros dois bicos.
+                não serão selecionados por que somente foram favorecidos os outros dois bicos.
               </p>
               <img src={naturalSelection2} alt="gráfico sobre seleção disruptiva" />
             </li>
@@ -104,7 +104,7 @@ export default function NaturalSelection() {
               <p>
                 <span>Seleção estabilizadora:</span> acontece quando é favorecida a
                 característica intermediária. Um exemplo dessa é a mudança no tamanho dos
-                bebes, quando muito pequenos ou grandes teria maior risco de mortalidade
+                bebês, quando muito pequenos ou grandes teriam maior risco de mortalidade
                 com isso favoreceu que aumentassem a frequência dos intermediários.
               </p>
               <img src={naturalSelection3} alt="gráfico sobre seleção estabilizadora" />

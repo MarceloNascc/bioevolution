@@ -16,7 +16,15 @@ export default function ArtificialSelection() {
         <section className='section-intro'>
           <h1 className='styled-title'>Seleção artificial</h1>
           <p className='text'>
-            Modificação das espécies através de cruzamentos seletivos. Os animais ou plantas
+            Um tema que gera uma grande discussão é a seleção artificial, afinal, até onde
+            a humanidade pode intervir e que consequência isso irá causar a longo prazo?
+          </p>
+          <p className="text">
+            Para conhecermos melhor o tema, vamos começar com o que é a seleção artificial.
+          </p>
+          <p className="text">
+            A seleção artificial também conhecida como seleção seletiva é a modificação das
+            espécies através de cruzamentos seletivos. Os animais ou plantas
             que apresentam características que interessam aos seres humanos são cruzados
             para obter indivíduos com um determinado genótipo, e para obter novas populações
             de organismos com um fim específico.

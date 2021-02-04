@@ -17,11 +17,19 @@ export default function Speciation() {
         <section className='section-intro'>
           <h1 className='styled-title'>Especiação</h1>
           <p className='text'>
-            O evento crucial para a origem de uma nova espécie é o isolamento reprodutivo.
+            Por muitos anos biólogos evolucionistas vêm discutindo sobre a origem da vida.
+            Questionamentos foram levantados de formas diferentes por grandes biólogos como:
+            Darwin e Lamarck.
           </p>
           <p className='text'>
-            A divisão de uma população e pequenas populações separas irá o fluxo gênico
-            originando outra espécie.
+            Mas afinal, como se origina uma espécie?
+          </p>
+          <p className="text">
+            O evento crucial para a origem de uma nova espécie é o isolamento reprodutivo.
+          </p>
+          <p className="text">
+            A divisão de uma população em pequenas populações separadas irá diminuir o
+            fluxo gênico originando outra espécie.
           </p>
           <p className='text'>
             Existem três tipos de especiação: Alopátrica, simpátrica e parapátrica.
