@@ -49,7 +49,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "darwinismo-1c",
+      "alternativeId": "darwinismo-2c",
       "text": "Alternativa “c”."
     }
   },
@@ -78,7 +78,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "darwinismo-1c",
+      "alternativeId": "darwinismo-3c",
       "text": "Alternativa “c”. Os dois pontos centrais do darwinismo são o compartilhamento de um ancestral comum e a seleção do mais apto."
     }
   },
@@ -103,7 +103,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "darwinismo-1d",
+      "alternativeId": "darwinismo-4d",
       "text": "Alternativa “d”. Nem sempre são indivíduos mais forte, mas sim aqueles mais adaptados ao meio em que vive."
     }
   }

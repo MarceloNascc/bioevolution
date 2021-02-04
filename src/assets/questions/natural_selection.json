@@ -41,7 +41,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "natural-selection-1b",
+      "alternativeId": "natural-selection-2b",
       "text": "Alternativa “b”"
     }
   },
@@ -70,7 +70,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "natural-selection-1d",
+      "alternativeId": "natural-selection-3d",
       "text": "Alternativa “d”"
     }
   },
@@ -99,7 +99,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "natural-selection-1d",
+      "alternativeId": "natural-selection-4d",
       "text": "Alternativa “d”"
     }
   }

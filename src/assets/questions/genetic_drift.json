@@ -53,7 +53,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "genetic-drift-1c",
+      "alternativeId": "genetic-drift-2c",
       "text": "Letra “c”. Mudanças repentinas no ambiente ou desastres naturais acabam reduzindo a população, chamamos de efeito gargalo."
     }
   },
@@ -82,7 +82,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "genetic-drift-1d",
+      "alternativeId": "genetic-drift-3d",
       "text": "Letra “d”. Quando um grupo pequeno de indivíduos de uma população acabam migrando para outra área, essa nova população terá uma variabilidade genética reduzida."
     }
   },
@@ -111,7 +111,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "genetic-drift-1d",
+      "alternativeId": "genetic-drift-4d",
       "text": "Letra “d”."
     }
   },
@@ -136,7 +136,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "genetic-drift-1c",
+      "alternativeId": "genetic-drift-5c",
       "text": "Letra “c”. Acontecerá a diminuição do fluxo gênico."
     }
   }

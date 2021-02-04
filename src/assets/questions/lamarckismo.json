@@ -53,7 +53,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "lamarckismo-1e",
+      "alternativeId": "lamarckismo-2e",
       "text": "Alternativa “e”. Explica a teoria do uso e desuso. O indivíduo se esforça para ter tais características."
     }
   },
@@ -82,7 +82,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "lamarckismo-1b",
+      "alternativeId": "lamarckismo-3b",
       "text": "Alternativa “b”."
     }
   },
@@ -111,7 +111,7 @@
       }
     ],
     "correctResponse": {
-      "alternativeId": "lamarckismo-1e",
+      "alternativeId": "lamarckismo-4e",
       "text": "Alternativa “e”."
     }
   }
